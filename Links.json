@@ -1,0 +1,18 @@
+[
+  {
+    "KEY": "example1",
+    "ALT": "example1 logo",
+    "FILE_PATH": "/static/icon.png",
+    "HREF": "https://www.example1.com",
+    "TITLE": "Example 1",
+    "DATA_QA": "example1"
+  },
+  {
+    "KEY": "example2",
+    "ALT": "example2 logo",
+    "FILE_PATH": "/static/icon.png",
+    "HREF": "https://www.example2.com",
+    "TITLE": "Example 2",
+    "DATA_QA": "example2"
+  }
+]

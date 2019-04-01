@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders as expected 1`] = `
+<ul
+  className="jsx-undefined"
+>
+  <a
+    className="jsx-undefined"
+    data-qa="example1"
+    href="https://www.example1.com"
+    rel="noopener external"
+    target="_blank"
+    title="Example 1"
+  >
+    <li
+      className="jsx-undefined"
+    >
+      <img
+        alt="example1 logo"
+        className="jsx-undefined"
+        src="/static/icon.png"
+      />
+    </li>
+  </a>
+  <a
+    className="jsx-undefined"
+    data-qa="example2"
+    href="https://www.example2.com"
+    rel="noopener external"
+    target="_blank"
+    title="Example 2"
+  >
+    <li
+      className="jsx-undefined"
+    >
+      <img
+        alt="example2 logo"
+        className="jsx-undefined"
+        src="/static/icon.png"
+      />
+    </li>
+  </a>
+</ul>
+`;

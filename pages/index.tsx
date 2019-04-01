@@ -14,7 +14,7 @@ export const Home: NextFunctionComponent = () => (
 
         li {
           padding: 20px;
-          border: 20px solid dodgerblue;
+          border: 10px solid dodgerblue;
         }
       }
     `}</style> */}

@@ -7,7 +7,6 @@ module.exports = {
   },
   testPathIgnorePatterns: ["<rootDir>/.next/", "<rootDir>/node_modules/"],
   moduleFileExtensions: ["ts", "tsx", "js", "jsx"],
-  collectCoverage: true,
   moduleNameMapper: {
     "^.*\\.scss$": __dirname + "/jest.stub.ts"
   }

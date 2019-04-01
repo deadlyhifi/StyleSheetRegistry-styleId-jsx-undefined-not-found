@@ -8,6 +8,16 @@ import Links from "../Links.json";
 export const Home: NextFunctionComponent = () => (
   <React.Fragment>
     <style jsx>{styles}</style>
+    {/* <style jsx>{`
+      ul {
+        background: hotpink;
+
+        li {
+          padding: 20px;
+          border: 20px solid dodgerblue;
+        }
+      }
+    `}</style> */}
     <ul>
       {Links.map(logo => (
         <a

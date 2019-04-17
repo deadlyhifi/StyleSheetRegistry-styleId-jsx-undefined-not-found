@@ -3,10 +3,10 @@
 exports[`renders as expected 1`] = `
 <div>
   <ul
-    class="jsx-undefined"
+    class="jsx-2085888330"
   >
     <a
-      class="jsx-undefined"
+      class="jsx-2085888330"
       data-qa="example1"
       href="https://www.example1.com"
       rel="noopener external"
@@ -14,17 +14,17 @@ exports[`renders as expected 1`] = `
       title="Example 1"
     >
       <li
-        class="jsx-undefined"
+        class="jsx-2085888330"
       >
         <img
           alt="example1 logo"
-          class="jsx-undefined"
+          class="jsx-2085888330"
           src="/static/icon.png"
         />
       </li>
     </a>
     <a
-      class="jsx-undefined"
+      class="jsx-2085888330"
       data-qa="example2"
       href="https://www.example2.com"
       rel="noopener external"
@@ -32,11 +32,11 @@ exports[`renders as expected 1`] = `
       title="Example 2"
     >
       <li
-        class="jsx-undefined"
+        class="jsx-2085888330"
       >
         <img
           alt="example2 logo"
-          class="jsx-undefined"
+          class="jsx-2085888330"
           src="/static/icon.png"
         />
       </li>
